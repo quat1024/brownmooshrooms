@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brownmooshrooms",
+  "name": "Brown Mooshrooms",
+  "description": "Adds a brown mooshroom! #CoryYes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["quaternary"],
+  "credits": "Shoutouts to cojomax99 of course LMAO",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
